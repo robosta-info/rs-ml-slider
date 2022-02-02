@@ -2,16 +2,16 @@
 /*
  * Meta Slider. Slideshow plugin for WordPress.
  *
- * Plugin Name: Meta Slider
- * Plugin URI:  https://www.metaslider.com
+ * Plugin Name: rs-meta-slider-fix
+ * Plugin URI:  https://www.robotstart.co.jp
  * Description: Easy to use slideshow plugin. Create SEO optimised responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides.
- * Version:     3.3.7
- * Author:      Matcha Labs
- * Author URI:  https://www.metaslider.com
+ * Version:     0.0.1
+ * Author:      robotstart
+ * Author URI:  https://www.robotstart.co.jp
  * License:     GPL-2.0+
  * Copyright:   2014 Matcha Labs LTD
  *
- * Text Domain: ml-slider
+ * Text Domain: rs-ml-slider
  * Domain Path: /languages
  */
 
