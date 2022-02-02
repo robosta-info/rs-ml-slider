@@ -1,9 +1,9 @@
 <?php
 /*
- * Meta Slider. Slideshow plugin for WordPress.
+ * rs-meta-slider-fix. Slideshow plugin for WordPress.
  *
  * Plugin Name: rs-meta-slider-fix
- * Plugin URI:  https://www.robotstart.co.jp
+ * Plugin URI:  https://github.com/robosta-info/rs-ml-slider
  * Description: Easy to use slideshow plugin. Create SEO optimised responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides.
  * Version:     0.0.1
  * Author:      robotstart
